@@ -1,4 +1,4 @@
-# WebScraping using Python
+# WebScraping using Python(BeautifulSoup & Scrapy)
 - BeautifulSoup was used to scrape the content of the website including the lxml parser 
 - Requests was used to get the website URL
 - Some transformation was done i.e. creating new columns that stores specific information of the weather needed 
@@ -8,3 +8,4 @@
 - [DataFrame stored in Database Weather](https://user-images.githubusercontent.com/5301791/137428662-06a7fbad-047e-436a-86f7-abca0dbdc8ed.png)
 - [DataFrame stored in Database Weather in Schema forecasts](https://user-images.githubusercontent.com/5301791/137428668-0fe365f7-9c22-4fd1-8e0e-03f94f68d1b5.png)
 - Regex pattern was used to extract specific data from the Tonaton web page
+- Scrapy framework was used to scrape a Shop website extracted the name, price and link of the items and stored in CSV and JSON.
